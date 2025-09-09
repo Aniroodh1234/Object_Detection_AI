@@ -1,0 +1,14 @@
+# Core dependencies for face detection
+opencv-python>=4.8.0
+
+# Optional dependencies for Jupyter notebook development
+jupyter>=1.0.0
+notebook>=6.4.0
+
+# Additional useful libraries
+numpy>=1.21.0
+matplotlib>=3.5.0
+
+# For development and testing (optional)
+pytest>=7.0.0
+flake8>=5.0.0
